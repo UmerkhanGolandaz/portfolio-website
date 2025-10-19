@@ -298,7 +298,7 @@ function PortfolioApp() {
               }}
             >
               <motion.a
-                href="/resume.pdf"
+href="resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-2.5 bg-gradient-to-r from-blue-600 to-slate-600 hover:from-blue-700 hover:to-slate-700 rounded-lg font-semibold text-white text-sm transition-all duration-300 shadow-lg hover:shadow-xl"
@@ -366,7 +366,7 @@ function PortfolioApp() {
               
               {/* Mobile Resume Button */}
               <motion.a
-                href="/resume.pdf"
+href="resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block mt-8 px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-lg font-semibold text-white text-center text-lg shadow-lg hover:from-cyan-600 hover:to-blue-600 transition-all duration-300"
@@ -402,7 +402,7 @@ function PortfolioApp() {
                 Umerkhan
               </span>{' '}
               <span className="text-gray-100 font-light">Golandaz</span>
-            </h1>
+          </h1>
             <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-blue-300 mx-auto mt-4 rounded-full"></div>
           </motion.div>
 
@@ -514,7 +514,7 @@ function PortfolioApp() {
             <div className="flex flex-col items-center gap-1">
               <div className="w-px h-6 bg-gray-500"></div>
               <div className="w-1.5 h-1.5 bg-blue-400 rounded-full animate-bounce"></div>
-            </div>
+          </div>
           </motion.div>
         </div>
       </motion.section>
@@ -1026,7 +1026,7 @@ function PortfolioApp() {
             <div className="bg-slate-900/50 backdrop-blur-md rounded-2xl overflow-hidden border border-white/10 hover:border-blue-500/50 transition-all group">
               <div className="aspect-square overflow-hidden">
                 <img 
-                  src="/images/hackathon/WhatsApp Image 2025-10-12 at 01.13.57_b4b975fe.jpg" 
+                  src="images/hackathon/WhatsApp Image 2025-10-12 at 01.13.57_b4b975fe.jpg" 
                   alt="Project Explanation to University Guest" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -1041,7 +1041,7 @@ function PortfolioApp() {
             <div className="bg-slate-900/50 backdrop-blur-md rounded-2xl overflow-hidden border border-white/10 hover:border-blue-500/50 transition-all group">
               <div className="aspect-square overflow-hidden">
                 <img 
-                  src="/images/hackathon/WhatsApp Image 2025-10-12 at 01.13.57_f37fa682.jpg" 
+                  src="images/hackathon/WhatsApp Image 2025-10-12 at 01.13.57_f37fa682.jpg" 
                   alt="Fatigue Project Explanation to 1st Year Students" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -1056,7 +1056,7 @@ function PortfolioApp() {
             <div className="bg-slate-900/50 backdrop-blur-md rounded-2xl overflow-hidden border border-white/10 hover:border-blue-500/50 transition-all group">
               <div className="aspect-square overflow-hidden">
                 <img 
-                  src="/images/hackathon/IMG_1661 (1).JPG" 
+                  src="images/hackathon/IMG_1661 (1).JPG" 
                   alt="Hackathon Victory" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -1071,7 +1071,7 @@ function PortfolioApp() {
             <div className="bg-slate-900/50 backdrop-blur-md rounded-2xl overflow-hidden border border-white/10 hover:border-blue-500/50 transition-all group">
               <div className="aspect-square overflow-hidden">
                 <img 
-                  src="/images/hackathon/WhatsApp Image 2025-10-11 at 21.27.11_99033229.jpg" 
+                  src="images/hackathon/WhatsApp Image 2025-10-11 at 21.27.11_99033229.jpg" 
                   alt="Award and Certificate" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -1086,7 +1086,7 @@ function PortfolioApp() {
             <div className="bg-slate-900/50 backdrop-blur-md rounded-2xl overflow-hidden border border-white/10 hover:border-blue-500/50 transition-all group">
               <div className="aspect-square overflow-hidden">
                 <img 
-                  src="/images/hackathon/WhatsApp Image 2025-10-11 at 21.28.27_e0e4ac0f.jpg" 
+                  src="images/hackathon/WhatsApp Image 2025-10-11 at 21.28.27_e0e4ac0f.jpg" 
                   alt="Winner Certificate" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
